@@ -3,7 +3,7 @@ module github.com/cjlapao/common-go-identity-openid
 go 1.19
 
 require (
-	github.com/cjlapao/common-go v0.0.36
+	github.com/cjlapao/common-go v0.0.37
 	github.com/cjlapao/common-go-restapi v0.0.7
 	github.com/stretchr/testify v1.8.1
 	golang.org/x/oauth2 v0.4.0
