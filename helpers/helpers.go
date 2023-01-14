@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/cjlapao/common-go-identity-openid/adapters"
+	"github.com/cjlapao/common-go-identity-oauth2/adapters"
 )
 
 func GetCookieName(client adapters.OAuth2Provider) string {

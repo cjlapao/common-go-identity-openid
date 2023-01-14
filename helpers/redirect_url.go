@@ -3,7 +3,7 @@ package helpers
 import (
 	"fmt"
 
-	"github.com/cjlapao/common-go-identity-openid/oauth2context"
+	"github.com/cjlapao/common-go-identity-oauth2/oauth2context"
 )
 
 type OAuth2Url struct {

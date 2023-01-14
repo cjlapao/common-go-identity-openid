@@ -1,4 +1,4 @@
-module github.com/cjlapao/common-go-identity-openid
+module github.com/cjlapao/common-go-identity-oauth2
 
 go 1.19
 

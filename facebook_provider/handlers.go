@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/cjlapao/common-go-identity-openid/adapters"
-	openid "github.com/cjlapao/common-go-identity-openid/helpers"
+	"github.com/cjlapao/common-go-identity-oauth2/adapters"
+	openid "github.com/cjlapao/common-go-identity-oauth2/helpers"
 	"github.com/cjlapao/common-go-restapi/controllers"
 )
 
