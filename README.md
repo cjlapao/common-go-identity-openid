@@ -1,1 +1,3 @@
-# Common Identity Framework OpenId
+# Common Identity Framework OAuth2
+  
+[![PR Builder](https://github.com/cjlapao/common-go-identity-oauth2/actions/workflows/pr.yml/badge.svg)](https://github.com/cjlapao/common-go-identity-oauth2/actions/workflows/pr.yml) [![CodeQL](https://github.com/cjlapao/common-go-identity-oauth2/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/cjlapao/common-go-identity-oauth2/actions/workflows/codeql-analysis.yml) [![CI Release](https://github.com/cjlapao/common-go-identity-oauth2/actions/workflows/ci.yml/badge.svg)](https://github.com/cjlapao/common-go-identity-oauth2/actions/workflows/ci.yml)  

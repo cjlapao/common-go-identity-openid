@@ -5,9 +5,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/cjlapao/common-go-identity-openid/adapters"
-	"github.com/cjlapao/common-go-identity-openid/helpers"
-	"github.com/cjlapao/common-go-identity-openid/oauth2context"
+	"github.com/cjlapao/common-go-identity-oauth2/adapters"
+	"github.com/cjlapao/common-go-identity-oauth2/helpers"
+	"github.com/cjlapao/common-go-identity-oauth2/oauth2context"
 	"github.com/cjlapao/common-go/log"
 	"golang.org/x/oauth2"
 	"golang.org/x/oauth2/google"

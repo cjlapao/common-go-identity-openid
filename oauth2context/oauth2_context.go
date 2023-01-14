@@ -3,7 +3,7 @@ package oauth2context
 import (
 	"strings"
 
-	"github.com/cjlapao/common-go-identity-openid/adapters"
+	"github.com/cjlapao/common-go-identity-oauth2/adapters"
 	restapi "github.com/cjlapao/common-go-restapi"
 	"github.com/cjlapao/common-go/helper/http_helper"
 	"github.com/cjlapao/common-go/log"
