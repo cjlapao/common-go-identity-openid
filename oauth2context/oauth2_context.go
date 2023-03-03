@@ -4,9 +4,9 @@ import (
 	"strings"
 
 	"github.com/cjlapao/common-go-identity-oauth2/adapters"
+	log "github.com/cjlapao/common-go-logger"
 	restapi "github.com/cjlapao/common-go-restapi"
 	"github.com/cjlapao/common-go/helper/http_helper"
-	"github.com/cjlapao/common-go/log"
 )
 
 var globalContext *Oauth2Context

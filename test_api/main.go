@@ -10,10 +10,10 @@ import (
 	"github.com/cjlapao/common-go-identity-oauth2/facebook_provider"
 	"github.com/cjlapao/common-go-identity-oauth2/google_provider"
 	"github.com/cjlapao/common-go-identity-oauth2/oauth2context"
+	log "github.com/cjlapao/common-go-logger"
 	restapi "github.com/cjlapao/common-go-restapi"
 	"github.com/cjlapao/common-go-restapi/controllers"
 	"github.com/cjlapao/common-go/execution_context"
-	"github.com/cjlapao/common-go/log"
 )
 
 var listener *restapi.HttpListener
