@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/cjlapao/common-go v0.0.39
 	github.com/cjlapao/common-go-logger v0.0.2
-	github.com/cjlapao/common-go-restapi v0.0.11
+	github.com/cjlapao/common-go-restapi v0.0.12
 	github.com/stretchr/testify v1.8.2
 	golang.org/x/oauth2 v0.5.0
 )
@@ -19,6 +19,7 @@ require (
 	github.com/fatih/color v1.14.1 // indirect
 	github.com/felixge/httpsnoop v1.0.3 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
+	github.com/google/uuid v1.3.0 // indirect
 	github.com/gorilla/handlers v1.5.1 // indirect
 	github.com/gorilla/mux v1.8.0 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
