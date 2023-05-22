@@ -6,7 +6,7 @@ require (
 	github.com/cjlapao/common-go v0.0.39
 	github.com/cjlapao/common-go-logger v0.0.2
 	github.com/cjlapao/common-go-restapi v0.0.11
-	github.com/stretchr/testify v1.8.2
+	github.com/stretchr/testify v1.8.3
 	golang.org/x/oauth2 v0.5.0
 )
 
